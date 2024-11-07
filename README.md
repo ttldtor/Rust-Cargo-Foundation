@@ -1,2 +1,2 @@
-# Rust-Cargo-Foundation
+# Rust Cargo Foundation
 Just Fuck Off
